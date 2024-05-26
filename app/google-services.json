@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "894830527909",
+    "project_id": "cursofirebase-9bd33",
+    "storage_bucket": "cursofirebase-9bd33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894830527909:android:f7754c0b7d332d16df544c",
+        "android_client_info": {
+          "package_name": "com.sgalera.cursofirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO24h_udVYIj3xhRvjDhezCfvcWnXbSCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894830527909:android:9caa4e6e52cd12f8df544c",
+        "android_client_info": {
+          "package_name": "com.sgalera.cursofirebase.debug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO24h_udVYIj3xhRvjDhezCfvcWnXbSCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
